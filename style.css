@@ -18,5 +18,10 @@ body{
 }
 
 .cabecalho{
-    background-color: var();
+    background-color: var(--cor-secundaria);
+    text-align: center;
+}
+
+.cabecalho_titulo{
+    font-size: 2 rem;
 }
